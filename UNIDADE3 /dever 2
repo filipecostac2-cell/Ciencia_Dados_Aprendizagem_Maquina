@@ -1,3 +1,0 @@
-recorte = df[["id_chamado", "setor", "prioridade", "status"]]
-posicional = df.iloc[0:5, 0:4]
-display(recorte.head(), posicional)
