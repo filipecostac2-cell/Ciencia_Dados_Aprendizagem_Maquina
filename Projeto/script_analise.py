@@ -1,9 +1,3 @@
-"""
-Fase 1: Entendimento do Negócio
-Projeto: Modelagem Preditiva de Crescimento Populacional e Demográfico na Bacia do Rio Negro
-Autor: Cientista de Dados / Engenheiro de Software Sênior
-Descrição: Define formalmente os objetivos de negócio, escopo, premissas e metas técnicas.
-"""
 
 import os
 
